@@ -1,0 +1,390 @@
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003864s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001517s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-30T10:25:38+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:25:38+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001009s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:27:27+08:00 ] 127.0.0.1 /Public/Home/css/global/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:27:27+08:00 ] 127.0.0.1 /Public/Home/css/global/css/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:27:28+08:00 ] 127.0.0.1 /Public/Home/css/global/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:27:28+08:00 ] 127.0.0.1 /Public/Home/css/global/css/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:29:57+08:00 ] 127.0.0.1 /Public/plugin/css/global/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:29:57+08:00 ] 127.0.0.1 /Public/plugin/css/global/css/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002563s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:29:58+08:00 ] 127.0.0.1 /Public/plugin/css/global/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:29:58+08:00 ] 127.0.0.1 /Public/plugin/css/global/css/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:30:04+08:00 ] 127.0.0.1 /Public/plugin/css/global/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:30:30+08:00 ] 127.0.0.1 /Public/plugin/style/css/global/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:30:44+08:00 ] 127.0.0.1 /Public/plugin/style/css/global/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:31:14+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:31:14+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:32:27+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001176s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:32:27+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:32:50+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:33:55+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:14+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:15+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:15+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:16+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:16+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:17+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:18+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:33+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:34+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:35+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:35+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:36+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:37+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:57+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000569s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004840s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:58+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001172s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:34:59+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:35:35+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T10:57:51+08:00 ] 127.0.0.1 /Public/plugin/style/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-30T11:12:09+08:00 ] 127.0.0.1 /index.php/G_WEB_PATH/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:G_WEB_PATH
+

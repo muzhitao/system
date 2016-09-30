@@ -1,0 +1,4415 @@
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /Public/home/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /Public/home/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /Public/home/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /Public/home/register.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:get_user_img('3030')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001138s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /Public/home/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:Getlogo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001089s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003419s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:get_user_img('3030')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /Public/home/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T18:53:05+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /Public/home/register.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /Public/home/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /Public/home/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:get_user_img('3030')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /Public/home/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /Public/home/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:Getlogo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001205s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003754s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:get_user_img('3030')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /Public/home/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001460s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002651s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:53:07+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T18:53:12+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:53:42+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:54:08+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /Public/home/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /Public/home/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:Getlogo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:get_user_img('3030')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001388s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:54:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:54:59+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:54:59+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:54:59+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T18:55:40+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:55:40+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:get_user_img('3030')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:40+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:55:40+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:55:40+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:55:40+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:55:40+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:55:40+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:40+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:40+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:40+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:Getlogo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001940s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000261s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:55:41+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:get_user_img('3030')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001300s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:Getlogo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001680s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:get_user_img('3030')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:56:28+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:56:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001262s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001584s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:56:29+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:56:29+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:56:29+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:Getlogo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003256s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016601s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001713s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:05+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:57:06+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:06+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:06+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:06+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:06+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:06+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:06+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:57:06+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:06+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:57:06+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:Getlogo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:21+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000984s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:57:22+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:22+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:22+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:22+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:22+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:22+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:57:22+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:57:22+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:57:22+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T18:58:28+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:58:28+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:58:28+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:58:28+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:Getlogo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001095s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:58:29+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T18:58:53+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:58:53+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:Getlogo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007847s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002142s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T18:58:54+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T18:58:56+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T18:58:56+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002240s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001301s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:00:46+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:00:47+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:00:47+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002061s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003509s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001675s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:01:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002229s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:01:10+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:01:11+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:01:53+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:01:53+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:01:53+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:01:54+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:11+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:11+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:11+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:12+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:13+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:13+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:13+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:13+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:37+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:37+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:37+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:37+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:55+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:55+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:55+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:02:55+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:08:23+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:08:23+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:08:23+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:08:23+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:18:22+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:18:22+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:18:22+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:19:15+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:19:15+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:19:15+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:19:15+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:19:38+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:19:38+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001892s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:19:38+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:19:38+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000195s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000454s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:20:00+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002028s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:01+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:20:01+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:20:04+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:20:50+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002898s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005331s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001349s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005658s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.011183s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011892s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:34+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:26:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:35+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:26:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:26:37+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001386s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:26:37+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001563s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:26:37+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:37+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:37+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:37+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:26:37+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019286s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002029s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001065s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:26:38+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001109s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002836s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001365s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003003s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:26:43+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001539s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:26:45+08:00 ] 127.0.0.1 /go/shaidan/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Go
+
+[ 2016-09-29T19:26:47+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:47+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:47+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:26:47+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:26:47+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002806s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001407s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:26:48+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001441s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001359s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001602s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$slide['img']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001702s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001149s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004470s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:34:30+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /Public/home/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.042058s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001349s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001806s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001190s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001098s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:35:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:35:38+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:38+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001412s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:58+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:35:59+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:59+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:59+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:59+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:59+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:59+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:59+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:35:59+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:35:59+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:35:59+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:36:29+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+TH}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:37:03+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:37:50+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:37:50+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:37:50+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:37:50+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:37:50+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001301s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:37:50+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:37:50+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:37:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:50+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000164s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:37:51+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004310s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:38:35+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:39:07+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:39:08+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:39:08+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:39:08+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:39:08+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:39:08+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:39:09+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001870s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001899s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000950s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:08+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:09+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:40:09+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:40:11+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:11+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:11+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:40:11+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:40:12+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /Public/home/js/global/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /Public/home/css/css/Home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003007s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001617s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /Public/home/uploads/banner/20141025/76813093234932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$sd['sd_thumbs']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$qishu['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001607s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_JS%7D/GLotteryFun.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:{G_TEMPLATES_JS}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000165s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /images/pa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:Images
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shopgx['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:fun:shopimg($gorecord['shopid'])%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$renqi['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_UPLOAD_PATH%7D/%7Bwc:$new_shop_mun['thumb']%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+ERR: 无法加载模块:{G_UPLOAD_PATH}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /Public/home/Comm.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_IMAGE%7D/footerimg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 无法加载模块:{G_TEMPLATES_IMAGE}
+
+[ 2016-09-29T19:40:20+08:00 ] 127.0.0.1 /%7BG_TEMPLATES_STYLE%7D/images/goods_loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+ERR: 无法加载模块:{G_TEMPLATES_STYLE}
+

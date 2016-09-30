@@ -11,5 +11,8 @@ use Think\Controller;
 class BaseController extends Controller {
 
     public function _initialize() {
+        if (! $_SESSION ["wadmin"]) {
+            $this->redirect ( "Admin/Public/login" );
+        }
     }
 }

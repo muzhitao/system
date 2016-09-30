@@ -1,0 +1,28 @@
+[ 2016-09-30T10:20:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.033807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015619s ]
+SQL: SHOW COLUMNS FROM `go_category` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `go_category` WHERE `model` = 1 AND `parentid` = 0 ORDER BY orders DESC  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `go_slide` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `go_slide`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000387s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000530s ]
+NOTIC: [8] Undefined index: user D:\wamp\www\Yi\system\yi\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 25 行.
+SQL: SHOW COLUMNS FROM `go_navigation` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `go_navigation` WHERE `status` = 'Y' AND `type` = 'index'  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\Yi\system\yi\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 254 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.323586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.323721s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.040071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.040323s ]
+
