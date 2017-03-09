@@ -15,7 +15,20 @@ div{ display:block;}
 body{background-color:#fff; font-size:12px;width:100%;height:100%; overflow:auto;}
 body,html{font: 12px/1.5 tahoma,arial,宋体b8b\4f53,sans-serif;}
 
-
+/*分页样式*/
+.ep-pages{padding:10px 12px;clear:both;text-align:right;
+	font-family:Arial, "\5B8B\4F53", sans-serif;font-size:14px;vertical-align:top}
+.ep-pages a, .ep-pages span{display:inline-block;height:23px;line-height:23px;padding:0 8px;
+	margin:5px 1px 0 0;background:#fff;border:1px solid #e5e5e5;overflow:hidden;vertical-align:top}
+.ep-pages a:hover{background:#cc1b1b;border:1px solid #cc1b1b;text-decoration:none}
+.ep-pages a, .ep-pages a:visited{color:#252525}
+.ep-pages a:hover, .ep-pages a:active{color:#ffffff}
+.ep-pages .current{background:#cc1b1b;border:1px solid #cc1b1b;color:#fff}
+.ep-pages a.current, .ep-pages a.current:visited{color:#ffffff}
+.ep-pages a.current:hover, .ep-pages a.current:active{color:#ffffff}
+.ep-pages-ctrl{font-family:"\5B8B\4F53", sans-serif;font-weight:bold;font-size:16px}
+.ep-pages-e5e5e5{color:#e5e5e5}
+.ep-pages-all{font-size:12px;vertical-align:top}
 
 /*公用样式*/
 .bk,.bk3,.bk6,.bk8,.bk10,.bk15,.bk20,.bk30{clear:both;width:100%;overflow:hidden;}

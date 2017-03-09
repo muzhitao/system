@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" href="__PUBLIC__/plugin/style/global/css/global.css" type="text/css">
+	<link rel="stylesheet" href="__PUBLIC__/plugin/style/global/css/style.css" type="text/css">
+</head>
+<body>
+<div class="header lr10">
+	<h3 class="nav_icon">管理员管理</h3>
+	<span class="span_fenge lr10"></span>
+	<a href="<{:U('Admin/lists')}>">管理员管理</a>
+	<span class="span_fenge lr5">|</span>
+	<a href="<{:U('Admin/add')}>">添加管理员</a>
+	<span class="span_fenge lr5">|</span>
+</div>
+
+
+<div class="bk10"></div>
+
+<div class="table-list lr10">
+	<form name="myform" action="" method="post">
+		<table width="100%" cellspacing="0">
+			<thead>
+			<tr align="center">
+				<th width="10%">序号</th>
+				<th width="15%" >用户名</th>
+				<th width="10%" >所属角色</th>
+				<th width="10%" >最后登录IP</th>
+				<th width="20%" >最后登录时间</th>
+				<th width="15%" >E-mail</th>
+				<th width="15%">管理操作</th>
+			</tr>
+			</thead>
+			<tbody>
+			<?php foreach($list as $v){ ?>
+			<tr align="center">
+				<td width="10%"><?php echo $v['uid']; ?></td>
+				<td width="15%"><?php echo $v['username']; ?></td>
+				<td width="10%"><?php if($v['mid']==0)echo "超级管理员"; ?></td>
+				<td width="10%"><?php echo $v['loginip']; ?></td>
+				<td width="20%"><?php echo date("Y-m-d H:i:s",$v['logintime']); ?></td>
+				<td width="15%"><?php echo $v['useremail']; ?></td>
+				<td width="15%" align="center">
+					<a href="<?php echo G_ADMIN_PATH; ?>/user/edit/<?php echo $v['uid']; ?>">修改</a>
+					<span class="span_fenge lr5">|</span>
+					<?php if($v['uid']==1){ ?>
+					<font color="#cccccc">删除</font>
+					<?php }else{ ?>
+					<a href="javascript:window.parent.Del('<?php echo G_ADMIN_PATH.'/'.ROUTE_C; ?>/del/<?php echo $v['uid']; ?>', '是否删除该管理员?')">删除</a>
+					<?php } ?>
+				</td>
+			</tr>
+			<?php } ?>
+			</tbody>
+		</table>
+		<div class="ep-pages">
+
+			<{$page}>
+		</div>
+	</form>
+</div><!--table-list end-->
+
+<script>
+
+</script>
+</body>
+</html> 

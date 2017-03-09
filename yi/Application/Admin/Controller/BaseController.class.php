@@ -15,4 +15,12 @@ class BaseController extends Controller {
             $this->redirect ( "Admin/Public/login" );
         }
     }
+
+	public function ajax_return($status = 0, $msg = 'ok', $data = array()) {
+
+		$return['status'] = $status;
+		$return['msg'] = $msg;
+		$return['data'] = $data;
+		$this->ajaxReturn($return);
+	}
 }
