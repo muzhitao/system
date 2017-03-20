@@ -24,17 +24,11 @@
                 <dd class="ft-fwrx-tel"><i style="display: none;">4006859800</i></dd>
                 <dd class="ft-fwrx-time">周一至周五 9:30-18:00</dd>
                 <dd class="ft-fwrx-service">
-                    {wc:php:start}
-                    if(isset($this->_cfg['qq_qun'])){
-                    $qq_qun_list = $this->_cfg['qq_qun'];
-                    $qq_qun_list = explode("|",$qq_qun_list);
-                    foreach($qq_qun_list as $qq){
-                    $qq = trim($qq);
-                    {wc:php:end}
-                    <span class="ft-qqicon"><a style="text-indent:0em; background:none;width:160px;" target="_blank" rel="nofollow" href="javascript:;">官方QQ群：<em class="orange Fb">{wc:$qq}</em></a></span>
-                    {wc:php:start}
-                    } }
-                    {wc:php:end}
+                    <?php if ($config['qq_qun']) {
+                         foreach($config['qq_qun'] as $qq){
+                     ?>
+                    <span class="ft-qqicon"><a style="text-indent:0em; background:none;width:160px;" target="_blank" rel="nofollow" href="javascript:;">官方QQ群：<em class="orange Fb"><?php echo $qq; ?></em></a></span>
+                    <?php }} ?>
                 </dd>
             </dl>
             <dl class="ft-weixin">
@@ -52,9 +46,7 @@
             <li class="sp-business service-promise-border-r0"><a href="{WEB_PATH}/single/business" target="_blank"><span>商务合作023-67898642</span></a></li>
         </ul>
     </div>
-    {wc:getone sql="select * from `@#_fund` limit 1" return="fund_data"}
-    {wc:getone:end}
-    {wc:if $fund_data['fund_off']}
+
     <div class="service_date">
         <div class="Service_Time">
             <p>服务器时间</p>
@@ -62,19 +54,12 @@
         </div>
         <div class="Service_Fund">
             <a href="{WEB_PATH}/single/fund" target="_blank">
-                <p>{wc:fun:_cfg('web_name_two')}公益基金</p>
+                <p><{$config.web_name_two}>公益基金</p>
                 <span id="spanFundTotal">0000000.00<i>元</i></span>
             </a>
         </div>
     </div>
-    {wc:else}
-    <div class="service_date" style="width:100px;">
-        <div class="Service_Time">
-            <p>服务器时间</p>
-            <span id="sp_ServerTime"></span>
-        </div>
-    </div>
-    {wc:if:end}
+
 </div>
 
 
@@ -108,7 +93,7 @@
                 showTime(time);
             }, 1000);
         }
-        window.yungou_time({wc:fun:time()}*1000);
+        window.yungou_time(<{$nowtime}>*1000);
 
     })();
 
@@ -328,7 +313,7 @@
     });
     //云购基金
     $.ajax({
-        url:"{WEB_PATH}/api/fund/get",
+        url:"<{:U('Api/fund')}>",
         success:function(msg){
             $("#spanFundTotal").text(msg);
         }
