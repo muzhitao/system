@@ -22,9 +22,9 @@
             <ul>
                 <volist name="slide_list" id="vo" key="k">
                 <if condition="$k eq 1">
-                    <li style="display:list-item;"><a href="<{$vo.url}>" target="_blank"><img src="/Public/home/uploads/<{$vo.img}>"></a></li>
+                    <li style="display:list-item;"><a href="<{$vo.url}>" target="_blank"><img src="__PUBLIC__/uploads/<{$vo.img}>"></a></li>
                 <else />
-                    <li style="display:none;"><a href="<{$vo.url}>" target="_blank"><img src="/Public/home/uploads/<{$vo.img}>"></a></li>
+                    <li style="display:none;"><a href="<{$vo.url}>" target="_blank"><img src="__PUBLIC__/uploads/<{$vo.img}>"></a></li>
                 </if>
                 </volist>
             </ul>
@@ -125,28 +125,28 @@
         })
     </script>
     <!-- 首页右边推荐商品一个 start-->
-    {wc:if $new_shop}
+    <notempty name="recommend_one">
     <div class="recommend">
         <ul class="Pro">
             <li>
                 <div class="pic">
-                    <a href="{WEB_PATH}/goods/{wc:$new_shop['id']}" target="_blank" title="{wc:$new_shop['title']}">
+                    <a href="{WEB_PATH}/goods/{wc:$new_shop['id']}" target="_blank" title="<{$recommend_one.title}>">
                         <i class="goods_tj"></i>
-                        <img alt="{wc:$new_shop['title']}" src="{G_UPLOAD_PATH}/{wc:$new_shop['thumb']}">
+                        <img alt="<{$recommend_one.title}>" src="__PUBLIC__/uploads/<{$recommend_one.thumb}>">
                     </a>
                     <p name="buyCount" style="display:none;"></p>
                 </div>
                 <p class="name">
-                    <strong><a href="{WEB_PATH}/goods/{wc:$new_shop['id']}" target="_blank" title="{wc:$new_shop['title']} ">
-                        {wc:$new_shop['title']}</strong></a>
+                    <strong><a href="{WEB_PATH}/goods/{wc:$new_shop['id']}" target="_blank" title="<{$recommend_one.title}>">
+                        <{$recommend_one.title}></strong></a>
                 </p>
-                <p class="money">价值：<span class="rmb">{wc:$new_shop['money']}</span></p>
+                <p class="money">价值：<span class="rmb"><{$recommend_one.money}></span></p>
                 <div class="Progress-bar" style="">
                     <p title="已完成{wc:fun:percent($new_shop['canyurenshu'],$new_shop['zongrenshu'])}"><span style="width:{wc:fun:width($new_shop['canyurenshu'],$new_shop['zongrenshu'],205)}px;"></span></p>
                     <ul class="Pro-bar-li">
-                        <li class="P-bar01"><em>{wc:$new_shop['canyurenshu']}</em>已参与人次</li>
-                        <li class="P-bar02"><em>{wc:$new_shop['zongrenshu']}</em>总需人次</li>
-                        <li class="P-bar03"><em>{wc:$new_shop['zongrenshu']-$new_shop['canyurenshu']}</em>剩余人次</li>
+                         <li class="P-bar01"><em><{$recommend_one.canyurenshu}></em>已参与人次</li>
+                        <li class="P-bar02"><em><{$recommend_one.zongrenshu}></em>总需人次</li>
+                        <li class="P-bar03"><em><{$recommend_one['zongrenshu']-$recommend_one['canyurenshu']}></em>剩余人次</li>
                     </ul>
                 </div>
                 <p>
@@ -155,32 +155,25 @@
             </li>
         </ul>
     </div>
-    {wc:if:end}
+</notempty>
     <!-- 首页右边推荐商品多个 start-->
     <div class="recommend rect_rem" style="height:225px;">
         <a href="javascript:;"><div class="arr_row arrows_arr" arae1="left1"></div></a>
         <ul class="Pro" id="prpr_po" style="border:solid 1px #ebebeb;height:206px;position:absolute;left:0px;">
-            {wc:php:start}
-            $new_shopmun=$this->db->GetList("select * from `@#_shoplist` where `pos` = '1' and `q_uid` is null ORDER BY `id` DESC LIMIT 3");
-            $num=1;
-            {wc:php:end}
-            {wc:loop $new_shopmun  $new_shop_mun}
-            {wc:php:start}
-            $num++;
-            {wc:php:end}
+            <volist name="recommend" id="vo">
             <li id="pre_0{wc:$num}">
                 <div class="pic">
-                    <a href="{WEB_PATH}/goods/{wc:$new_shop_mun['id']}" target="_blank" title="{wc:$new_shop_mun['title']}">
-                        <img alt="{wc:$new_shop_mun['title']}" src="{G_UPLOAD_PATH}/{wc:$new_shop_mun['thumb']}">
+                    <a href="" target="_blank" title="<{$vo.title}>">
+                        <img alt="<{$vo.title}>" src="__PUBLIC__/uploads/<{$vo.thumb}>">
                     </a>
                     <p name="buyCount" style="display:none;"></p>
                 </div>
                 <p class="name">
-                    <strong><a href="{WEB_PATH}/goods/{wc:$new_shop_mun['id']}" target="_blank" title="{wc:$new_shop_mun['title']} ">
-                        {wc:$new_shop_mun['title']}</strong></a>
+                    <strong><a href="{WEB_PATH}/goods/{wc:$new_shop_mun['id']}" target="_blank" title="<{$vo.title}>">
+                       <{$vo.title}></strong></a>
                 </p>
             </li>
-            {wc:loop:end}
+            </volist>
         </ul>
         <a href="javascript:;"><div class="arr_row arrows_are" arae1="right1"></div></a>
     </div>
@@ -197,32 +190,30 @@
         <div class="hot" style="">
             <h3><span>最热人气商品</span><a rel="nofollow" href="{WEB_PATH}/goods_list/0_0_2">更多商品，点击查看&gt;&gt;</a></h3>
             <ul id="hostGoodsItems" class="hot-list">
-                {wc:php:start}
-                $shoplistrenqib=$this->db->GetList("select * from `@#_shoplist` where `renqi`='1' and `q_uid` is null ORDER BY id DESC LIMIT 8");
-                {wc:php:end}
-                {wc:loop $shoplistrenqib $renqi}
+             <volist name="renqi" id="vo">
                 <li class="list-block">
-                    <div class="pic"><a href="{WEB_PATH}/goods/{wc:$renqi['id']}" target="_blank" title="{wc:$renqi['title']}">
+                    <div class="pic"><a href="<{:U('Goods/detail')}>" target="_blank" title="<{$vo.title}>">
                         <!--补丁3.1.5_b.0.1-->
-                        {wc:php:start}$i_googd_bj = null;{wc:php:end}
+         <!--                {wc:php:start}$i_googd_bj = null;{wc:php:end}
                         {wc:if $renqi['renqi']=='1' && !isset($i_googd_bj)}
                         {wc:php:start}$i_googd_bj = '<i class="goods_rq"></i>';{wc:php:end}
                         {wc:if:end}
-                        {wc:$i_googd_bj}
-                        <img src="{G_UPLOAD_PATH}/{wc:$renqi['thumb']}" alt="{wc:$renqi['title']}"></a></div>
-                    <p class="name"><a href="{WEB_PATH}/goods/{wc:$renqi['id']}" target="_blank" title="{wc:$renqi['title']}">{wc:$renqi['title']}</a></p>
-                    <p class="money">价值：<span class="rmb">{wc:$renqi['money']}</span></p>
+                        {wc:$i_googd_bj} -->
+                        <i class="goods_rq"></i>
+                        <img src="__PUBLIC__/uploads/<{$vo.thumb}>" alt="<{$vo.title}>"></a></div>
+                    <p class="name"><a href="item-<{$vo.id}>" target="_blank" title="<{$vo.title}>"><{$vo.title}></a></p>
+                    <p class="money">价值：<span class="rmb"><{$vo.money}></span></p>
                     <div class="Progress-bar" style="">
-                        <p title="已完成{wc:fun:percent($renqi['canyurenshu'],$renqi['zongrenshu'])}"><span style="width:{wc:fun:width($renqi['canyurenshu'],$renqi['zongrenshu'],221)}px;"></span></p>
+                        <p title="已完成{wc:fun:percent(<{$vo.canyurenshu}>,$renqi['zongrenshu'])}"><span style="width:{wc:fun:width(<{$vo.canyurenshu}>,<{$vo.zongrenshu}>,221)}px;"></span></p>
                         <ul class="Pro-bar-li">
-                            <li class="P-bar01"><em>{wc:$renqi['canyurenshu']}</em>已参与人次</li>
-                            <li class="P-bar02"><em>{wc:$renqi['zongrenshu']}</em>总需人次</li>
-                            <li class="P-bar03"><em>{wc:$renqi['zongrenshu']-$renqi['canyurenshu']}</em>剩余人次</li>
+                            <li class="P-bar01"><em><{$vo.canyurenshu}></em>已参与人次</li>
+                            <li class="P-bar02"><em><{$vo.zongrenshu}></em>总需人次</li>
+                            <li class="P-bar03"><em><{$vo['zongrenshu']-$vo['canyurenshu']}></em>剩余人次</li>
                         </ul>
                     </div>
-                    <div class="shop_buttom"><a href="{WEB_PATH}/goods/{wc:$renqi['id']}" target="_blank" class="shop_but" title="立即购买"></a></div>
+                    <div class="shop_buttom"><a href="/item-<{$vo.id}>.html" target="_blank" class="shop_but" title="立即购买"></a></div>
                 </li>
-                {wc:loop:end}
+              </volist>
             </ul>
         </div>
     </div>
@@ -265,25 +256,22 @@
         <div class="hot" style="">
             <h3><span>即将揭晓</span><a rel="nofollow" href="{WEB_PATH}/goods_list/0_0_1">更多即将揭晓，点击查看&gt;&gt;</a></h3>
             <ul id="hostGoodsItems" class="hot-list">
-                {wc:php:start}
-                $shoplist=$this->db->GetList("select * from `@#_shoplist` where `q_uid` is null ORDER BY `shenyurenshu` ASC LIMIT 8");
-                {wc:php:end}
-                {wc:loop $shoplist $shop}
+               <volist name="startGxb" id="vo">
                 <li class="list-block">
-                    <div class="pic"><a href="{WEB_PATH}/goods/{wc:$shop['id']}" target="_blank" title="{wc:$shop['title']}"><img src="{G_UPLOAD_PATH}/{wc:$shop['thumb']}" alt="{wc:$shop['title']}"></a></div>
-                    <p class="name"><a href="{WEB_PATH}/goods/{wc:$shop['id']}" target="_blank" title="{wc:$shop['title']}">{wc:$shop['title']}</a></p>
-                    <p class="money">价值：<span class="rmb">{wc:$shop['money']}</span></p>
+                    <div class="pic"><a href="item-<{$vo.id}>.html" target="_blank" title="<{$vo.title}>"><img src="__PUBLIC__/uploads/<{$vo.thumb}>" alt="<{$vo.title}>"></a></div>
+                    <p class="name"><a href="{WEB_PATH}/goods/{wc:$shop['id']}" target="_blank" title="<{$vo.title}>"><{$vo.title}></a></p>
+                    <p class="money">价值：<span class="rmb"><{$vo.money}></span></p>
                     <div class="Progress-bar" style="">
                         <p title="已完成{wc:fun:percent($shop['canyurenshu'],$shop['zongrenshu'])}"><span style="width:{wc:fun:width($shop['canyurenshu'],$shop['zongrenshu'],221)}px;"></span></p>
                         <ul class="Pro-bar-li">
-                            <li class="P-bar01"><em>{wc:$shop['canyurenshu']}</em>已参与人次</li>
-                            <li class="P-bar02"><em>{wc:$shop['zongrenshu']}</em>总需人次</li>
-                            <li class="P-bar03"><em>{wc:$shop['zongrenshu']-$shop['canyurenshu']}</em>剩余人次</li>
+                            <li class="P-bar01"><em><{$vo.canyurenshu}></em>已参与人次</li>
+                            <li class="P-bar02"><em><{$vo.zongrenshu}></em>总需人次</li>
+                            <li class="P-bar03"><em><{$vo['zongrenshu']-$vo['canyurenshu']}></em>剩余人次</li>
                         </ul>
                     </div>
                     <div class="shop_buttom"><a href="{WEB_PATH}/goods/{wc:$shop['id']}" target="_blank" class="shop_but" title="立即购买"></a></div>
                 </li>
-                {wc:loop:end}
+                </volist>
             </ul>
         </div>
     </div>

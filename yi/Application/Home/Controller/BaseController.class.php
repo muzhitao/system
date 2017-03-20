@@ -10,6 +10,9 @@ use Think\Controller;
 
 class BaseController extends Controller {
 
+	public $seo = array();
     public function _initialize() {
+
+    	$this->assign('seo', $this->seo);
     }
 }

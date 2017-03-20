@@ -12,6 +12,7 @@ use Think\Controller;
 class GoodsController extends BaseController {
 
     public function detail() {
+    
         $this->display();
     }
 }
