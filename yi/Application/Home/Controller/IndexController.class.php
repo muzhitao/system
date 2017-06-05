@@ -6,7 +6,6 @@ class IndexController extends BaseController {
 
     public function index() {
 
-
     	$this->seo['title'] = '网站首页';
     	$this->seo['keywords'] = '关键字';
     	$this->seo['description'] = '描述';
@@ -23,7 +22,10 @@ class IndexController extends BaseController {
         $slide = D("Slide");
         $slide_list = $slide->select();
 
+        $shopqishub = $Goods->getQishuPub();
+        $this->assign('shopqishub', $shopqishub);
         $this->assign('slide_list', $slide_list);
+        $this->assign('seo', $this->seo);
         $this->display();
     }
 }

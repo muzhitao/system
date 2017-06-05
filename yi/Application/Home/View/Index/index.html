@@ -1,9 +1,6 @@
 <include file="Public:header" />
 <link rel="stylesheet" type="text/css" href="__PUBLIC__/home/css/Home.css"/>
 <script type="text/javascript" src="__PUBLIC__/home/js/layer/layer.min.js"></script>
-
-
-
 <style type="text/css">
     .demo{ width:740px; height:333px; position:relative; overflow:hidden; padding:0px;}
     .num{ position:absolute;right:20px; top:300px; z-index:10;}
@@ -12,12 +9,9 @@
     .demo ul{ position:relative; z-index:5;}
     .demo ul li{ position:absolute; display:none;}
 </style>
-
 <!--banner and Recommend 开始-->
 <div class="banner_recommend">
     <div class="banner-box">
-
-
         <div style="margin-left:239px;" class="demo">
             <ul>
                 <volist name="slide_list" id="vo" key="k">
@@ -33,7 +27,6 @@
                 <a class=""><{$k}></a>
                 </volist>
             </div>
-
         </div>
         <div class="new_notice">
             <div class="new_notice_center">
@@ -46,7 +39,7 @@
                     </li>
                     <li>
                         <span class="n_number">2</span>
-                        “限时{wc:fun:_cfg('web_name_two')}活动。”
+                        “限时<{$config.web_name_two}>活动。”
                     </li>
                     <li>祝您愉快~！</li>
                 </ul>
@@ -55,29 +48,31 @@
         <div class="new_publish">
             <a href="javascript:;"><div class="arrows arrows2" arae="left"></div></a>
             <div class="prin_pp" id="prin_pp">
-                {wc:php:start}
-                $shopqishub=$this->db->GetList("select qishu,id,sid,thumb,title,q_uid,q_user,q_user_code,zongrenshu  from `@#_shoplist` where `q_end_time` is not null and `q_showtime` = 'N' ORDER BY `q_end_time` DESC LIMIT 6");
-                {wc:php:end}
-                {wc:loop $shopqishub $qishu}
-                {wc:php:start}
-                $qishu['q_user'] = unserialize($qishu['q_user']);
-                $user_shop_number = $this->db->GetOne("select sum(gonumber) as gonumber from `@#_member_go_record` where `uid`= '$qishu[q_uid]' and `shopid` = '$qishu[id]' and `shopqishu` = '$qishu[qishu]'");
-                $user_shop_number = $user_shop_number['gonumber'];
-                {wc:php:end}
+                <!--{wc:php:start}-->
+                <!--$shopqishub=$this->db->GetList("select qishu,id,sid,thumb,title,q_uid,q_user,q_user_code,zongrenshu  from `@#_shoplist` where `q_end_time` is not null and `q_showtime` = 'N' ORDER BY `q_end_time` DESC LIMIT 6");-->
+                <!--{wc:php:end}-->
+                <!--{wc:loop $shopqishub $qishu}-->
+                <!--{wc:php:start}-->
+                <!--$qishu['q_user'] = unserialize($qishu['q_user']);-->
+                <!--$user_shop_number = $this->db->GetOne("select sum(gonumber) as gonumber from `@#_member_go_record` where `uid`= '$qishu[q_uid]' and `shopid` = '$qishu[id]' and `shopqishu` = '$qishu[qishu]'");-->
+                <!--$user_shop_number = $user_shop_number['gonumber'];-->
+                <!--{wc:php:end}-->
+
+                <volist name="shopqishub" id="vo">
                 <div class='print'>
                     <div class="new_publish1" style="border-right:solid 1px #ebebeb">
                         <i class="ico_label_newReveal" title="最新揭晓"></i>
-                        <p class="w_goods_title"><a href="{WEB_PATH}/dataserver/{wc:$qishu['id']}" title="{wc:$qishu['title']}">(第{wc:$qishu['qishu']}期){wc:$qishu['title']}</a></p>
-                        <div class="w_goods_pic"><a title="{wc:$qishu['title']}" href="{WEB_PATH}/dataserver/{wc:$qishu['id']}"><img src="{G_UPLOAD_PATH}/{wc:$qishu['thumb']}"/></a></div>
-                        <p class="w_goods_price">总需：{wc:$qishu['zongrenshu']}人次</p>
+                        <p class="w_goods_title"><a href="{WEB_PATH}/dataserver/{wc:$qishu['id']}" title="<{$vo.title}>">(第<{$vo.qishu}>期)<{$vo.title}></a></p>
+                        <div class="w_goods_pic"><a title="<{$vo.title}>" href="{WEB_PATH}/dataserver/{wc:$qishu['id']}"><img src="__PUBLIC__/uploads/<{$vo.thumb}>"/></a></div>
+                        <p class="w_goods_price">总需：<{$vo.zongrenshu}>人次</p>
                         <div class="w_goods_record">
                             <P>获奖者：<a href="{WEB_PATH}/uname/{wc:fun:idjia($qishu['q_uid'])}">{wc:fun:get_user_name($qishu['q_user'])}</a></P>
-                            <p>本期参与：{wc:$user_shop_number}人次</p>
-                            <p>本期幸运号码：{wc:$qishu['q_user_code']}</p>
+                            <p>本期参与：<{$vo.gonumber}>人次</p>
+                            <p>本期幸运号码：<{$vo.q_user_code}></p>
                         </div>
                     </div>
                 </div>
-                {wc:loop:end}
+                </volist>
                 <!------>
                 <script type="text/javascript" src="{G_TEMPLATES_JS}/GLotteryFun.js"></script>
                 <script type="text/javascript">

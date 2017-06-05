@@ -56,8 +56,6 @@
 
 
 
-
-
         <div class="head_mid">
             <div class="head_mid_bg">
                 <h1 class="logo_1yyg">
@@ -103,7 +101,7 @@
                     <div class="m_catlog_wrap"  style="{wc:if isset($isindex) && $isindex=='Y'}display:block;{wc:else}display:none;{wc:if:end}">
                         <div class="m_catlog_bd">
                             <ul class="m_catlog_list">
-                               <volist name="cate_list" id="vo">
+                               <volist name="cat_list" id="vo">
                                 <li><a href="<{:U('Goods/good_list',array('cateid'=>$vo['cateid']))}>"><{$vo.name}></a></li>
                                </volist>
                             </ul>
