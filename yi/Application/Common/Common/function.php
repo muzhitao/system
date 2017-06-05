@@ -6,23 +6,7 @@
  * Time: 19:09
  */
 
-/**
- * 获取类目导航
- * @return mixed
- */
-function getCate()
-{
-    $cate = D("Category");
-    $condition = array(
-        'model' => 1,
-        'parentid' => 0,
-    );
-
-    $list = $cate->where($condition)->order('orders DESC')->select();
-
-    return $list;
-}
-function Getheaderb($type='index'){
+function Getheaderb( $type = 'index'){
 
     define('WEB_PATH', '');
     $navigation = D("Navigation");
