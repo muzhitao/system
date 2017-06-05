@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>{wc:if isset($title)}{wc:$title}{wc:else}{wc:fun:_cfg("web_name")}{wc:if:end}</title>
-    <meta name="keywords" content="{wc:if isset($keywords)}{wc:$keywords}{wc:else}{wc:fun:_cfg("web_key")}{wc:if:end}" />
-    <meta name="description" content="{wc:if isset($description)}{wc:$description}{wc:else}{wc:fun:_cfg("web_des")}{wc:if:end}" />
+    <title><?php echo ($seo["title"]); ?></title>
+    <meta name="keywords" content="<?php echo ($seo["keywords"]); ?>" />
+    <meta name="description" content="<?php echo ($seo["description"]); ?>" />
     <meta http-equiv = "X-UA-Compatible" content = "IE = edge" />
     <link rel="stylesheet" type="text/css" href="/Public/home/css/Comm.css"/>
     <link rel="stylesheet" type="text/css" href="/Public/home/css/register.css"/>
     <link rel="stylesheet" type="text/css" href="/Public/home/css/css/Home.css"/>
-    <script type="text/javascript" src="/Public/home/js/global/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/Public/home//js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="/Public/home/js/jquery.cookie.js"></script>
 </head>
 <body >
@@ -51,8 +51,6 @@
                 </ul>
             </div>
         </div>
-
-
 
 
 
@@ -101,7 +99,7 @@
                     <div class="m_catlog_wrap"  style="{wc:if isset($isindex) && $isindex=='Y'}display:block;{wc:else}display:none;{wc:if:end}">
                         <div class="m_catlog_bd">
                             <ul class="m_catlog_list">
-                               <?php if(is_array($cate_list)): $i = 0; $__LIST__ = $cate_list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li><a href="<?php echo U('Goods/good_list',array('cateid'=>$vo['cateid']));?>"><?php echo ($vo["name"]); ?></a></li><?php endforeach; endif; else: echo "" ;endif; ?>
+                               <?php if(is_array($cat_list)): $i = 0; $__LIST__ = $cat_list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li><a href="<?php echo U('Goods/good_list',array('cateid'=>$vo['cateid']));?>"><?php echo ($vo["name"]); ?></a></li><?php endforeach; endif; else: echo "" ;endif; ?>
                             </ul>
                         </div>
                     </div>
@@ -232,9 +230,6 @@
 
 <link rel="stylesheet" type="text/css" href="/Public/home/css/Home.css"/>
 <script type="text/javascript" src="/Public/home/js/layer/layer.min.js"></script>
-
-
-
 <style type="text/css">
     .demo{ width:740px; height:333px; position:relative; overflow:hidden; padding:0px;}
     .num{ position:absolute;right:20px; top:300px; z-index:10;}
@@ -243,22 +238,18 @@
     .demo ul{ position:relative; z-index:5;}
     .demo ul li{ position:absolute; display:none;}
 </style>
-
 <!--banner and Recommend 开始-->
 <div class="banner_recommend">
     <div class="banner-box">
-
-
         <div style="margin-left:239px;" class="demo">
             <ul>
-                <?php if(is_array($slide_list)): $k = 0; $__LIST__ = $slide_list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($k % 2 );++$k; if($k == 1): ?><li style="display:list-item;"><a href="<?php echo ($vo["url"]); ?>" target="_blank"><img src="/Public/home/uploads/<?php echo ($vo["img"]); ?>"></a></li>
+                <?php if(is_array($slide_list)): $k = 0; $__LIST__ = $slide_list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($k % 2 );++$k; if($k == 1): ?><li style="display:list-item;"><a href="<?php echo ($vo["url"]); ?>" target="_blank"><img src="/Public/uploads/<?php echo ($vo["img"]); ?>"></a></li>
                 <?php else: ?>
-                    <li style="display:none;"><a href="<?php echo ($vo["url"]); ?>" target="_blank"><img src="/Public/home/uploads/<?php echo ($vo["img"]); ?>"></a></li><?php endif; endforeach; endif; else: echo "" ;endif; ?>
+                    <li style="display:none;"><a href="<?php echo ($vo["url"]); ?>" target="_blank"><img src="/Public/uploads/<?php echo ($vo["img"]); ?>"></a></li><?php endif; endforeach; endif; else: echo "" ;endif; ?>
             </ul>
             <div class="num">
                 <?php if(is_array($slide_list)): $k = 0; $__LIST__ = $slide_list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($k % 2 );++$k;?><a class=""><?php echo ($k); ?></a><?php endforeach; endif; else: echo "" ;endif; ?>
             </div>
-
         </div>
         <div class="new_notice">
             <div class="new_notice_center">
@@ -271,7 +262,7 @@
                     </li>
                     <li>
                         <span class="n_number">2</span>
-                        “限时{wc:fun:_cfg('web_name_two')}活动。”
+                        “限时<?php echo ($config["web_name_two"]); ?>活动。”
                     </li>
                     <li>祝您愉快~！</li>
                 </ul>
@@ -280,29 +271,29 @@
         <div class="new_publish">
             <a href="javascript:;"><div class="arrows arrows2" arae="left"></div></a>
             <div class="prin_pp" id="prin_pp">
-                {wc:php:start}
-                $shopqishub=$this->db->GetList("select qishu,id,sid,thumb,title,q_uid,q_user,q_user_code,zongrenshu  from `@#_shoplist` where `q_end_time` is not null and `q_showtime` = 'N' ORDER BY `q_end_time` DESC LIMIT 6");
-                {wc:php:end}
-                {wc:loop $shopqishub $qishu}
-                {wc:php:start}
-                $qishu['q_user'] = unserialize($qishu['q_user']);
-                $user_shop_number = $this->db->GetOne("select sum(gonumber) as gonumber from `@#_member_go_record` where `uid`= '$qishu[q_uid]' and `shopid` = '$qishu[id]' and `shopqishu` = '$qishu[qishu]'");
-                $user_shop_number = $user_shop_number['gonumber'];
-                {wc:php:end}
-                <div class='print'>
+                <!--{wc:php:start}-->
+                <!--$shopqishub=$this->db->GetList("select qishu,id,sid,thumb,title,q_uid,q_user,q_user_code,zongrenshu  from `@#_shoplist` where `q_end_time` is not null and `q_showtime` = 'N' ORDER BY `q_end_time` DESC LIMIT 6");-->
+                <!--{wc:php:end}-->
+                <!--{wc:loop $shopqishub $qishu}-->
+                <!--{wc:php:start}-->
+                <!--$qishu['q_user'] = unserialize($qishu['q_user']);-->
+                <!--$user_shop_number = $this->db->GetOne("select sum(gonumber) as gonumber from `@#_member_go_record` where `uid`= '$qishu[q_uid]' and `shopid` = '$qishu[id]' and `shopqishu` = '$qishu[qishu]'");-->
+                <!--$user_shop_number = $user_shop_number['gonumber'];-->
+                <!--{wc:php:end}-->
+
+                <?php if(is_array($shopqishub)): $i = 0; $__LIST__ = $shopqishub;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><div class='print'>
                     <div class="new_publish1" style="border-right:solid 1px #ebebeb">
                         <i class="ico_label_newReveal" title="最新揭晓"></i>
-                        <p class="w_goods_title"><a href="{WEB_PATH}/dataserver/{wc:$qishu['id']}" title="{wc:$qishu['title']}">(第{wc:$qishu['qishu']}期){wc:$qishu['title']}</a></p>
-                        <div class="w_goods_pic"><a title="{wc:$qishu['title']}" href="{WEB_PATH}/dataserver/{wc:$qishu['id']}"><img src="{G_UPLOAD_PATH}/{wc:$qishu['thumb']}"/></a></div>
-                        <p class="w_goods_price">总需：{wc:$qishu['zongrenshu']}人次</p>
+                        <p class="w_goods_title"><a href="{WEB_PATH}/dataserver/{wc:$qishu['id']}" title="<?php echo ($vo["title"]); ?>">(第<?php echo ($vo["qishu"]); ?>期)<?php echo ($vo["title"]); ?></a></p>
+                        <div class="w_goods_pic"><a title="<?php echo ($vo["title"]); ?>" href="{WEB_PATH}/dataserver/{wc:$qishu['id']}"><img src="/Public/uploads/<?php echo ($vo["thumb"]); ?>"/></a></div>
+                        <p class="w_goods_price">总需：<?php echo ($vo["zongrenshu"]); ?>人次</p>
                         <div class="w_goods_record">
                             <P>获奖者：<a href="{WEB_PATH}/uname/{wc:fun:idjia($qishu['q_uid'])}">{wc:fun:get_user_name($qishu['q_user'])}</a></P>
-                            <p>本期参与：{wc:$user_shop_number}人次</p>
-                            <p>本期幸运号码：{wc:$qishu['q_user_code']}</p>
+                            <p>本期参与：<?php echo ($vo["gonumber"]); ?>人次</p>
+                            <p>本期幸运号码：<?php echo ($vo["q_user_code"]); ?></p>
                         </div>
                     </div>
-                </div>
-                {wc:loop:end}
+                </div><?php endforeach; endif; else: echo "" ;endif; ?>
                 <!------>
                 <script type="text/javascript" src="{G_TEMPLATES_JS}/GLotteryFun.js"></script>
                 <script type="text/javascript">
@@ -350,28 +341,27 @@
         })
     </script>
     <!-- 首页右边推荐商品一个 start-->
-    {wc:if $new_shop}
-    <div class="recommend">
+    <?php if(!empty($recommend_one)): ?><div class="recommend">
         <ul class="Pro">
             <li>
                 <div class="pic">
-                    <a href="{WEB_PATH}/goods/{wc:$new_shop['id']}" target="_blank" title="{wc:$new_shop['title']}">
+                    <a href="{WEB_PATH}/goods/{wc:$new_shop['id']}" target="_blank" title="<?php echo ($recommend_one["title"]); ?>">
                         <i class="goods_tj"></i>
-                        <img alt="{wc:$new_shop['title']}" src="{G_UPLOAD_PATH}/{wc:$new_shop['thumb']}">
+                        <img alt="<?php echo ($recommend_one["title"]); ?>" src="/Public/uploads/<?php echo ($recommend_one["thumb"]); ?>">
                     </a>
                     <p name="buyCount" style="display:none;"></p>
                 </div>
                 <p class="name">
-                    <strong><a href="{WEB_PATH}/goods/{wc:$new_shop['id']}" target="_blank" title="{wc:$new_shop['title']} ">
-                        {wc:$new_shop['title']}</strong></a>
+                    <strong><a href="{WEB_PATH}/goods/{wc:$new_shop['id']}" target="_blank" title="<?php echo ($recommend_one["title"]); ?>">
+                        <?php echo ($recommend_one["title"]); ?></strong></a>
                 </p>
-                <p class="money">价值：<span class="rmb">{wc:$new_shop['money']}</span></p>
+                <p class="money">价值：<span class="rmb"><?php echo ($recommend_one["money"]); ?></span></p>
                 <div class="Progress-bar" style="">
                     <p title="已完成{wc:fun:percent($new_shop['canyurenshu'],$new_shop['zongrenshu'])}"><span style="width:{wc:fun:width($new_shop['canyurenshu'],$new_shop['zongrenshu'],205)}px;"></span></p>
                     <ul class="Pro-bar-li">
-                        <li class="P-bar01"><em>{wc:$new_shop['canyurenshu']}</em>已参与人次</li>
-                        <li class="P-bar02"><em>{wc:$new_shop['zongrenshu']}</em>总需人次</li>
-                        <li class="P-bar03"><em>{wc:$new_shop['zongrenshu']-$new_shop['canyurenshu']}</em>剩余人次</li>
+                         <li class="P-bar01"><em><?php echo ($recommend_one["canyurenshu"]); ?></em>已参与人次</li>
+                        <li class="P-bar02"><em><?php echo ($recommend_one["zongrenshu"]); ?></em>总需人次</li>
+                        <li class="P-bar03"><em><?php echo ($recommend_one['zongrenshu']-$recommend_one['canyurenshu']); ?></em>剩余人次</li>
                     </ul>
                 </div>
                 <p>
@@ -379,33 +369,23 @@
                 </p>
             </li>
         </ul>
-    </div>
-    {wc:if:end}
+    </div><?php endif; ?>
     <!-- 首页右边推荐商品多个 start-->
     <div class="recommend rect_rem" style="height:225px;">
         <a href="javascript:;"><div class="arr_row arrows_arr" arae1="left1"></div></a>
         <ul class="Pro" id="prpr_po" style="border:solid 1px #ebebeb;height:206px;position:absolute;left:0px;">
-            {wc:php:start}
-            $new_shopmun=$this->db->GetList("select * from `@#_shoplist` where `pos` = '1' and `q_uid` is null ORDER BY `id` DESC LIMIT 3");
-            $num=1;
-            {wc:php:end}
-            {wc:loop $new_shopmun  $new_shop_mun}
-            {wc:php:start}
-            $num++;
-            {wc:php:end}
-            <li id="pre_0{wc:$num}">
+            <?php if(is_array($recommend)): $i = 0; $__LIST__ = $recommend;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li id="pre_0{wc:$num}">
                 <div class="pic">
-                    <a href="{WEB_PATH}/goods/{wc:$new_shop_mun['id']}" target="_blank" title="{wc:$new_shop_mun['title']}">
-                        <img alt="{wc:$new_shop_mun['title']}" src="{G_UPLOAD_PATH}/{wc:$new_shop_mun['thumb']}">
+                    <a href="" target="_blank" title="<?php echo ($vo["title"]); ?>">
+                        <img alt="<?php echo ($vo["title"]); ?>" src="/Public/uploads/<?php echo ($vo["thumb"]); ?>">
                     </a>
                     <p name="buyCount" style="display:none;"></p>
                 </div>
                 <p class="name">
-                    <strong><a href="{WEB_PATH}/goods/{wc:$new_shop_mun['id']}" target="_blank" title="{wc:$new_shop_mun['title']} ">
-                        {wc:$new_shop_mun['title']}</strong></a>
+                    <strong><a href="{WEB_PATH}/goods/{wc:$new_shop_mun['id']}" target="_blank" title="<?php echo ($vo["title"]); ?>">
+                       <?php echo ($vo["title"]); ?></strong></a>
                 </p>
-            </li>
-            {wc:loop:end}
+            </li><?php endforeach; endif; else: echo "" ;endif; ?>
         </ul>
         <a href="javascript:;"><div class="arr_row arrows_are" arae1="right1"></div></a>
     </div>
@@ -422,32 +402,28 @@
         <div class="hot" style="">
             <h3><span>最热人气商品</span><a rel="nofollow" href="{WEB_PATH}/goods_list/0_0_2">更多商品，点击查看&gt;&gt;</a></h3>
             <ul id="hostGoodsItems" class="hot-list">
-                {wc:php:start}
-                $shoplistrenqib=$this->db->GetList("select * from `@#_shoplist` where `renqi`='1' and `q_uid` is null ORDER BY id DESC LIMIT 8");
-                {wc:php:end}
-                {wc:loop $shoplistrenqib $renqi}
-                <li class="list-block">
-                    <div class="pic"><a href="{WEB_PATH}/goods/{wc:$renqi['id']}" target="_blank" title="{wc:$renqi['title']}">
+             <?php if(is_array($renqi)): $i = 0; $__LIST__ = $renqi;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li class="list-block">
+                    <div class="pic"><a href="<?php echo U('Goods/detail');?>" target="_blank" title="<?php echo ($vo["title"]); ?>">
                         <!--补丁3.1.5_b.0.1-->
-                        {wc:php:start}$i_googd_bj = null;{wc:php:end}
+         <!--                {wc:php:start}$i_googd_bj = null;{wc:php:end}
                         {wc:if $renqi['renqi']=='1' && !isset($i_googd_bj)}
                         {wc:php:start}$i_googd_bj = '<i class="goods_rq"></i>';{wc:php:end}
                         {wc:if:end}
-                        {wc:$i_googd_bj}
-                        <img src="{G_UPLOAD_PATH}/{wc:$renqi['thumb']}" alt="{wc:$renqi['title']}"></a></div>
-                    <p class="name"><a href="{WEB_PATH}/goods/{wc:$renqi['id']}" target="_blank" title="{wc:$renqi['title']}">{wc:$renqi['title']}</a></p>
-                    <p class="money">价值：<span class="rmb">{wc:$renqi['money']}</span></p>
+                        {wc:$i_googd_bj} -->
+                        <i class="goods_rq"></i>
+                        <img src="/Public/uploads/<?php echo ($vo["thumb"]); ?>" alt="<?php echo ($vo["title"]); ?>"></a></div>
+                    <p class="name"><a href="item-<?php echo ($vo["id"]); ?>" target="_blank" title="<?php echo ($vo["title"]); ?>"><?php echo ($vo["title"]); ?></a></p>
+                    <p class="money">价值：<span class="rmb"><?php echo ($vo["money"]); ?></span></p>
                     <div class="Progress-bar" style="">
-                        <p title="已完成{wc:fun:percent($renqi['canyurenshu'],$renqi['zongrenshu'])}"><span style="width:{wc:fun:width($renqi['canyurenshu'],$renqi['zongrenshu'],221)}px;"></span></p>
+                        <p title="已完成{wc:fun:percent(<?php echo ($vo["canyurenshu"]); ?>,$renqi['zongrenshu'])}"><span style="width:{wc:fun:width(<?php echo ($vo["canyurenshu"]); ?>,<?php echo ($vo["zongrenshu"]); ?>,221)}px;"></span></p>
                         <ul class="Pro-bar-li">
-                            <li class="P-bar01"><em>{wc:$renqi['canyurenshu']}</em>已参与人次</li>
-                            <li class="P-bar02"><em>{wc:$renqi['zongrenshu']}</em>总需人次</li>
-                            <li class="P-bar03"><em>{wc:$renqi['zongrenshu']-$renqi['canyurenshu']}</em>剩余人次</li>
+                            <li class="P-bar01"><em><?php echo ($vo["canyurenshu"]); ?></em>已参与人次</li>
+                            <li class="P-bar02"><em><?php echo ($vo["zongrenshu"]); ?></em>总需人次</li>
+                            <li class="P-bar03"><em><?php echo ($vo['zongrenshu']-$vo['canyurenshu']); ?></em>剩余人次</li>
                         </ul>
                     </div>
-                    <div class="shop_buttom"><a href="{WEB_PATH}/goods/{wc:$renqi['id']}" target="_blank" class="shop_but" title="立即购买"></a></div>
-                </li>
-                {wc:loop:end}
+                    <div class="shop_buttom"><a href="/item/<?php echo ($vo["id"]); ?>.html" target="_blank" class="shop_but" title="立即购买"></a></div>
+                </li><?php endforeach; endif; else: echo "" ;endif; ?>
             </ul>
         </div>
     </div>
@@ -490,25 +466,20 @@
         <div class="hot" style="">
             <h3><span>即将揭晓</span><a rel="nofollow" href="{WEB_PATH}/goods_list/0_0_1">更多即将揭晓，点击查看&gt;&gt;</a></h3>
             <ul id="hostGoodsItems" class="hot-list">
-                {wc:php:start}
-                $shoplist=$this->db->GetList("select * from `@#_shoplist` where `q_uid` is null ORDER BY `shenyurenshu` ASC LIMIT 8");
-                {wc:php:end}
-                {wc:loop $shoplist $shop}
-                <li class="list-block">
-                    <div class="pic"><a href="{WEB_PATH}/goods/{wc:$shop['id']}" target="_blank" title="{wc:$shop['title']}"><img src="{G_UPLOAD_PATH}/{wc:$shop['thumb']}" alt="{wc:$shop['title']}"></a></div>
-                    <p class="name"><a href="{WEB_PATH}/goods/{wc:$shop['id']}" target="_blank" title="{wc:$shop['title']}">{wc:$shop['title']}</a></p>
-                    <p class="money">价值：<span class="rmb">{wc:$shop['money']}</span></p>
+               <?php if(is_array($startGxb)): $i = 0; $__LIST__ = $startGxb;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li class="list-block">
+                    <div class="pic"><a href="item-<?php echo ($vo["id"]); ?>.html" target="_blank" title="<?php echo ($vo["title"]); ?>"><img src="/Public/uploads/<?php echo ($vo["thumb"]); ?>" alt="<?php echo ($vo["title"]); ?>"></a></div>
+                    <p class="name"><a href="{WEB_PATH}/goods/{wc:$shop['id']}" target="_blank" title="<?php echo ($vo["title"]); ?>"><?php echo ($vo["title"]); ?></a></p>
+                    <p class="money">价值：<span class="rmb"><?php echo ($vo["money"]); ?></span></p>
                     <div class="Progress-bar" style="">
                         <p title="已完成{wc:fun:percent($shop['canyurenshu'],$shop['zongrenshu'])}"><span style="width:{wc:fun:width($shop['canyurenshu'],$shop['zongrenshu'],221)}px;"></span></p>
                         <ul class="Pro-bar-li">
-                            <li class="P-bar01"><em>{wc:$shop['canyurenshu']}</em>已参与人次</li>
-                            <li class="P-bar02"><em>{wc:$shop['zongrenshu']}</em>总需人次</li>
-                            <li class="P-bar03"><em>{wc:$shop['zongrenshu']-$shop['canyurenshu']}</em>剩余人次</li>
+                            <li class="P-bar01"><em><?php echo ($vo["canyurenshu"]); ?></em>已参与人次</li>
+                            <li class="P-bar02"><em><?php echo ($vo["zongrenshu"]); ?></em>总需人次</li>
+                            <li class="P-bar03"><em><?php echo ($vo['zongrenshu']-$vo['canyurenshu']); ?></em>剩余人次</li>
                         </ul>
                     </div>
                     <div class="shop_buttom"><a href="{WEB_PATH}/goods/{wc:$shop['id']}" target="_blank" class="shop_but" title="立即购买"></a></div>
-                </li>
-                {wc:loop:end}
+                </li><?php endforeach; endif; else: echo "" ;endif; ?>
             </ul>
         </div>
     </div>
@@ -654,17 +625,9 @@
                 <dd class="ft-fwrx-tel"><i style="display: none;">4006859800</i></dd>
                 <dd class="ft-fwrx-time">周一至周五 9:30-18:00</dd>
                 <dd class="ft-fwrx-service">
-                    {wc:php:start}
-                    if(isset($this->_cfg['qq_qun'])){
-                    $qq_qun_list = $this->_cfg['qq_qun'];
-                    $qq_qun_list = explode("|",$qq_qun_list);
-                    foreach($qq_qun_list as $qq){
-                    $qq = trim($qq);
-                    {wc:php:end}
-                    <span class="ft-qqicon"><a style="text-indent:0em; background:none;width:160px;" target="_blank" rel="nofollow" href="javascript:;">官方QQ群：<em class="orange Fb">{wc:$qq}</em></a></span>
-                    {wc:php:start}
-                    } }
-                    {wc:php:end}
+                    <?php if ($config['qq_qun']) { foreach($config['qq_qun'] as $qq){ ?>
+                    <span class="ft-qqicon"><a style="text-indent:0em; background:none;width:160px;" target="_blank" rel="nofollow" href="javascript:;">官方QQ群：<em class="orange Fb"><?php echo $qq; ?></em></a></span>
+                    <?php }} ?>
                 </dd>
             </dl>
             <dl class="ft-weixin">
@@ -682,9 +645,7 @@
             <li class="sp-business service-promise-border-r0"><a href="{WEB_PATH}/single/business" target="_blank"><span>商务合作023-67898642</span></a></li>
         </ul>
     </div>
-    {wc:getone sql="select * from `@#_fund` limit 1" return="fund_data"}
-    {wc:getone:end}
-    {wc:if $fund_data['fund_off']}
+
     <div class="service_date">
         <div class="Service_Time">
             <p>服务器时间</p>
@@ -692,19 +653,12 @@
         </div>
         <div class="Service_Fund">
             <a href="{WEB_PATH}/single/fund" target="_blank">
-                <p>{wc:fun:_cfg('web_name_two')}公益基金</p>
+                <p><?php echo ($config["web_name_two"]); ?>公益基金</p>
                 <span id="spanFundTotal">0000000.00<i>元</i></span>
             </a>
         </div>
     </div>
-    {wc:else}
-    <div class="service_date" style="width:100px;">
-        <div class="Service_Time">
-            <p>服务器时间</p>
-            <span id="sp_ServerTime"></span>
-        </div>
-    </div>
-    {wc:if:end}
+
 </div>
 
 
@@ -738,7 +692,7 @@
                 showTime(time);
             }, 1000);
         }
-        window.yungou_time({wc:fun:time()}*1000);
+        window.yungou_time(<?php echo ($nowtime); ?>*1000);
 
     })();
 
@@ -958,7 +912,7 @@
     });
     //云购基金
     $.ajax({
-        url:"{WEB_PATH}/api/fund/get",
+        url:"<?php echo U('Api/fund');?>",
         success:function(msg){
             $("#spanFundTotal").text(msg);
         }
