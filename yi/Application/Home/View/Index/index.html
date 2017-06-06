@@ -187,7 +187,7 @@
             <ul id="hostGoodsItems" class="hot-list">
              <volist name="renqi" id="vo">
                 <li class="list-block">
-                    <div class="pic"><a href="<{:U('Goods/detail')}>" target="_blank" title="<{$vo.title}>">
+                    <div class="pic"><a href="<{:U('Goods/detail',array('id'=>$vo['id']))}>" target="_blank" title="<{$vo.title}>">
                         <!--补丁3.1.5_b.0.1-->
          <!--                {wc:php:start}$i_googd_bj = null;{wc:php:end}
                         {wc:if $renqi['renqi']=='1' && !isset($i_googd_bj)}

@@ -79,3 +79,17 @@ function safe_replace($string) {
     $string = str_replace('\\','',$string);
     return $string;
 }
+
+function cfg($name = '') {
+    if (empty($name)) {
+        return '';
+    }
+
+    $config = new \Admin\Model\ConfigModel();
+    $data = $config->getConfig();
+    if (isset($data[$name])) {
+        return $data[$name];
+    }
+
+    return '';
+}

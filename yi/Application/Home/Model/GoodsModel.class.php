@@ -92,4 +92,29 @@ class GoodsModel extends Model {
 
         return $list;
     }
+
+    public function getGoodsDetail($id = 0) {
+
+        $data = array();
+        if (empty($id)) {
+            return $data;
+        }
+
+        $model = D($this->tableName);
+        $data = $model->find($id);
+        if ($data) {
+            $data['picarr'] = unserialize($data['picarr']);
+        }
+
+        return $data;
+    }
+    /**
+     * 获取记录
+     * @param  [type] $params [description]
+     * @return [type]         [description]
+     */
+    public function getRecord($params, $limit = 6) {
+        $model = D($this->member_go_record_model);
+
+    }
 }

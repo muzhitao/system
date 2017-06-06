@@ -61,21 +61,21 @@ $.fn.CloudZoom.defaults = {
 	</script>	
 	<!-- 商品信息 -->
 	<div class="Pro_Details">
-		<h1><span>(第{wc:$item['qishu']}期)</span><span >{wc:$item['title']}</span><span style="{wc:$item['title_style']}">{wc:$item['title2']}</span></h1>
+		<h1><span>(第<{$detail.qishu}>期)</span><span ><{$detail.title}></span><span style="<{$detail.title_style}>"><{$detail.title2}></span></h1>
 		<div class="Pro_Detleft">
 			<div class="zoom-small-image">
-				<span href="{G_UPLOAD_PATH}/{wc:$item['thumb']}" class = 'cloud-zoom' id='zoom1' rel="adjustX:10, adjustY:-2">
-                <img width="80px" height="80px" src="{G_UPLOAD_PATH}/{wc:$item['thumb']}" /></span>
+				<span href="__PUBLIC__/uploads/<{$detail.thumb}>" class = 'cloud-zoom' id='zoom1' rel="adjustX:10, adjustY:-2">
+                <img width="80px" height="80px" src="__PUBLIC__/uploads/<{$detail.thumb}>" /></span>
 			</div>
 
 			<div class="zoom-desc"> 
 				<div class="jcarousel-prev jcarousel-prev-disabled"></div>
 				<div class="jcarousel-clip" style="height:55px;width:384px;">
 				<p>
-					{wc:loop $item['picarr'] $imgtu}                  
-					<label href="{G_UPLOAD_PATH}/{wc:$imgtu}" class='cloud-zoom-gallery'  rel="useZoom: 'zoom1', smallImage: '{G_UPLOAD_PATH}/{wc:$imgtu}'">
-					<img class="zoom-tiny-image" src="{G_UPLOAD_PATH}/{wc:$imgtu}" /></label>			
-					{wc:loop:end} 
+					<foreach name="detail.picarr" item="vo">                 
+						<label href="__PUBLIC__/uploads/<{$vo}>" class='cloud-zoom-gallery'  rel="useZoom: 'zoom1', smallImage: '__PUBLIC__/uploads/<{$vo}>'">
+						<img class="zoom-tiny-image" src="__PUBLIC__/uploads/<{$vo}>" /></label>			
+					</foreach>
 				</p>
 				</div>
 				<div class="jcarousel-next jcarousel-next-disabled"></div>
@@ -129,13 +129,14 @@ $.fn.CloudZoom.defaults = {
 			{wc:if:end}
 		</div>
 		<div class="Pro_Detright">
-			<p class="Det_money">价值：<span class="rmbgray">{wc:$item['money']}</span></p>
+			<p class="Det_money">价值：<span class="rmbgray"><{$detail.money}></span></p>
 			<!--显示揭晓动画 start-->
-			{wc:if ($q_showtime=='Y')}
-				{wc:templates "index","item_animation"}
-			{wc:else}
-				{wc:templates "index","item_contents"}
-			{wc:if:end}	
+			<eq name="q_showtime" value="Y">
+				<include file='animation' />
+			<else/>
+				<include file='contents' />
+			</eq>
+	
 			<!--显示揭晓动画 end-->		
 			<div class="Security">
 				<ul>
@@ -146,9 +147,9 @@ $.fn.CloudZoom.defaults = {
 			</div>			
 			<div class="Pro_Record">
 				<ul id="ulRecordTab" class="Record_tit">
-					<li class="NewestRec Record_titCur">最新{wc:fun:_cfg('web_name_two')}记录</li>
-					<li class="MytRec">我的{wc:fun:_cfg('web_name_two')}记录</li>
-					<li class="Explain orange">什么是{wc:fun:_cfg('web_name_two')}？</li>
+					<li class="NewestRec Record_titCur">最新<{:cfg('web_name_two')}>记录</li>
+					<li class="MytRec">我的<{:cfg('web_name_two')}>记录</li>
+					<li class="Explain orange">什么是<{:cfg('web_name_two')}>？</li>
 				</ul>
 				<div class="Newest_Con hide">
 					<ul>
