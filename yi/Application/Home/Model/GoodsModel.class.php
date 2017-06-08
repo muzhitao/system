@@ -108,13 +108,59 @@ class GoodsModel extends Model {
 
         return $data;
     }
+
     /**
      * 获取记录
      * @param  [type] $params [description]
      * @return [type]         [description]
      */
-    public function getRecord($params, $limit = 6) {
+    public function getRecordList($params, $limit = 6) {
         $model = D($this->member_go_record_model);
 
+        $where = array();
+        if (isset($params['id'])) {
+            $where['shopid'] = intval($params['id']);
+        }
+
+        if (isset($params['qishu'])) {
+            $where['shopqishu'] = intval($params['qishu']);
+        }
+
+        if (isset($params['uid'])) {
+            $where['uid'] = $params['uid'];
+        }
+
+        $data = $model->where($where)->limit($limit)->order('id DESC')->select();
+
+        return $data;
+    }
+
+    /**
+     * 获取往期的商品期数
+     * @param  integer $sid [description]
+     * @return [type]       [description]
+     */
+    public function getShopList($sid = 0, $order = 'qishu DESC', $limit = 0, $field = 'id,qishu,q_uid') {
+
+        $model = D($this->tableName);
+        if (empty($sid)) {
+            return array();
+        }
+        $where['sid'] = $sid;
+        $result = $model->field($field)->where($where)->order($order)->limit($limit)->select();
+
+        return $result;
+    }
+
+    public function getRecordOne($params = array(), $order = '') {
+
+        $model = D($this->member_go_record_model);
+        if (empty($params)) {
+            return array();
+        }
+
+        $result = $model->field('*')->where($params)->order($order)->find();
+        
+        return $result; 
     }
 }

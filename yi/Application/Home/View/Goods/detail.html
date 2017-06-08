@@ -1,8 +1,8 @@
 <include file="Public:header" />
-<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/GoodsDetail.css"/>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/home/css/GoodsDetail.css"/>
 <!--<link rel="stylesheet" type="text/css" href="{G_TEMPLATES_STYLE}/css/header.css"/>-->
-<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/js/cloud-zoom.css"/>
-<script type="text/javascript" src="__PUBLIC__/Home/js/cloud-zoom.min.js"></script>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/home/js/cloud-zoom.css"/>
+<script type="text/javascript" src="__PUBLIC__/home/js/cloud-zoom.min.js"></script>
 <script type="text/javascript">
 $.fn.CloudZoom.defaults = {
 	zoomWidth: '400',
@@ -32,17 +32,17 @@ $.fn.CloudZoom.defaults = {
 <div class="Current_nav">
 	<a href="__ROOT__">首页</a> <span>&gt;</span>
 	<a href="{WEB_PATH}/goods_list/{wc:$item['cateid']}">
-	{wc:$category['name']}
+	<{$category['name']}>
 	</a><span>&gt;</span> 
 	<a href="{WEB_PATH}/goods_list/{wc:$item['cateid']}e{wc:$item['brandid']}">
-	{wc:$brand['name']}
+	<{$brand.name}>
 	</a> <span>&gt;</span>商品详情
 </div>
 <div class="show_content">
 	<!-- 商品期数 -->
 	<div id="divPeriodList" class="show_Period" style="max-height:99px;">		
 		<div class="period_Open"><a class="gray02" click="off" id="btnOpenPeriod" href="javascript:void(0);">展开<i></i></a></div>
-		{wc:$loopqishu}
+		<{$loopqishu}>
 	</div>
 	<script>
 		$("#btnOpenPeriod").click(function(){
@@ -105,28 +105,24 @@ $.fn.CloudZoom.defaults = {
 					}
 				})
 			</script>			
-			
-			{wc:if $sid_code}			
-			{wc:if $sid_code['q_showtime']=='N'}
+	
+			<?php if ($sid_code && $sid_code['q_showtime'] == 'N'){ ?>
 			<div class="Pro_GetPrize">				
 				<h2>上期获得者</h2>
 				<div class="GetPrize">				    
 					<dl>
-						<dt><a rel="nofollow" href="{WEB_PATH}/uname/{wc:fun:idjia($sid_code['q_uid'])}" target="_blank"><img width="80" height="80" alt="" src="{G_UPLOAD_PATH}/{wc:fun:get_user_key($sid_code['q_uid'],'img')}"></a></dt>
+						<dt><a rel="nofollow" href="{WEB_PATH}/uname/<?php echo idjia($sid_code['q_uid']);?>" target="_blank"><img width="80" height="80" alt="" src="__PUBLIC__/uploads/<?php echo get_user_key($sid_code['q_uid'],'img'); ?>"></a></dt>
 						<dd class="gray02">
-							<p>恭喜 <a href="{WEB_PATH}/uname/{wc:fun:idjia($sid_code['q_uid'])}" target="_blank" class="blue">{wc:fun:get_user_name($sid_code['q_uid'])}</a>获得了本商品</p>
-							{wc:if $sid_go_record['ip']}
-							{wc:fun:get_ip($sid_go_record['id'],'ipcity')}
-							{wc:if:end}
-							<p>揭晓时间：{wc:fun:microt($sid_code['q_end_time'])}</p>
-							<p>{wc:fun:_cfg('web_name_two')}时间：{wc:fun:microt($sid_go_record['time'])}</p>
-							<p>幸运{wc:fun:_cfg('web_name_two')}码：<em class="orange Fb">{wc:$sid_code['q_user_code']}</em></p>
+							<p>恭喜 <a href="{WEB_PATH}/uname/<?php echo idjia($sid_code['q_uid']);?>" target="_blank" class="blue"><?php echo get_user_name($sid_code['q_uid']); ?></a>获得了本商品</p>
+							<{$sid_go_record['ip']}>
+							<p>揭晓时间：<?php echo microt($sid_code['q_end_time']); ?></p>
+							<p><{:cfg('web_name_two')}>时间：<?php echo microt($sid_go_record['time']); ?>{wc:fun:microt($sid_go_record['time'])}</p>
+							<p>幸运<{:cfg('web_name_two')}>码：<em class="orange Fb"><?php echo $sid_code['q_user_code']; ?></em></p>
 						</dd>
 					</dl>				
 				</div>
 			</div>
-			{wc:if:end}
-			{wc:if:end}
+			<?php } ?>
 		</div>
 		<div class="Pro_Detright">
 			<p class="Det_money">价值：<span class="rmbgray"><{$detail.money}></span></p>
@@ -153,22 +149,21 @@ $.fn.CloudZoom.defaults = {
 				</ul>
 				<div class="Newest_Con hide">
 					<ul>
-						{wc:loop $us $user}
+						<volist name="us_record" id="vo">
+						
 						<li>
-						<a href="{WEB_PATH}/uname/{wc:fun:idjia($user['uid'])}" target="_blank">
-						{wc:if !empty($user['uphoto'])}
-							<img src="{G_UPLOAD_PATH}/{wc:$user['uphoto']}" border="0" alt="" width="20" height="20">
-						{wc:else}
-							<img src="{G_UPLOAD_PATH}/photo/member.jpg" border="0" alt="" width="20" height="20">
-						{wc:if:end}
+						<a href="{WEB_PATH}/uname/<?php echo idjia($vo['uid']); ?>" target="_blank">
+						<empty name="vo.uphoto">
+							<img src="__PUBLIC__/uploads/photo/member.jpg" border="0" alt="" width="20" height="20">
+						<else /> 
+							<img src="__PUBLIC__/uploads/<{$vo.uphoto}>" border="0" alt="" width="20" height="20">
+						</empty> 
 						</a>					
-						<a href="{WEB_PATH}/uname/{wc:fun:idjia($user['uid'])}" target="_blank" class="blue">{wc:$user['username']}</a>
-						{wc:if $user['ip']}
-						({wc:fun:get_ip($user['id'],'ipcity')}) 
-						{wc:if:end}				
-						{wc:fun:_put_time($user['time'])} {wc:fun:_cfg('web_name_two')}了
-						<em class="Fb gray01">{wc:$user['gonumber']}</em>人次</li>
-						{wc:loop:end}
+						<a href="{WEB_PATH}/uname/<?php echo idjia($vo['uid']); ?>" target="_blank" class="blue"><{$vo.username}></a>
+							
+						<?php echo _put_time($vo['time']); ?> <{:cfg('web_name_two')}>了
+						<em class="Fb gray01"><{$vo.gonumber}></em>人次</li>
+						</volist>
 					</ul>
 					<p style=""><a id="btnUserBuyMore" href="javascript:;" class="gray01">查看更多</a></p>					
 				</div>
@@ -192,8 +187,8 @@ $.fn.CloudZoom.defaults = {
 				<!--/我的云购记录-->
 				
 				<div class="Newest_Con hide" style="display:none;">
-					<p class="MsgIntro">{wc:fun:_cfg("web_name_two")}购是指只需1元就有机会买到想要的商品。即每件商品被平分成若干“等份”出售，每份1元，当一件商品所有“等份”售出后，根据{wc:fun:_cfg('web_name_two')}规则产生一名幸运者，该幸运者即可获得此商品。</p>
-					<p class="MsgIntro1">{wc:fun:_cfg("web_name_two")}以“快乐{wc:fun:_cfg('web_name_two')}，惊喜无限”为宗旨，力求打造一个100%公平公正、100%正品保障、寄娱乐与购物一体化的新型购物网站。<a href="{WEB_PATH}/help/1" class="blue" target="_blank">查看详情&gt;&gt;</a></p>
+					<p class="MsgIntro"><{:cfg('web_name_two')}>购是指只需1元就有机会买到想要的商品。即每件商品被平分成若干“等份”出售，每份1元，当一件商品所有“等份”售出后，根据<{:cfg('web_name_two')}>规则产生一名幸运者，该幸运者即可获得此商品。</p>
+					<p class="MsgIntro1"><{:cfg('web_name_two')}>以“快乐<{:cfg('web_name_two')}>，惊喜无限”为宗旨，力求打造一个100%公平公正、100%正品保障、寄娱乐与购物一体化的新型购物网站。<a href="{WEB_PATH}/help/1" class="blue" target="_blank">查看详情&gt;&gt;</a></p>
 				</div>
 			</div>			
 		</div>
@@ -216,7 +211,7 @@ $.fn.CloudZoom.defaults = {
 <!--补丁3.1.6_b.0.1-->
 <div id="divContent" class="Product_Content">
 	<!-- 商品内容 -->
-	<div class="Product_Con">{wc:$item['content']}</div>
+	<div class="Product_Con"><{$detail.content}></div>
     <!-- 商品内容 -->
     
     <!-- 购买记录20条 -->
@@ -275,7 +270,7 @@ $(function(){
 		}
 	});
 })
-var shopinfo={'shopid':{wc:$item['id']},'money':{wc:$item['yunjiage']},'shenyu':{wc:$syrs}};
+var shopinfo={'shopid':<{$detail['id']}>,'money':<{$detail['yunjiage']}>,'shenyu':{wc:$syrs}};
 <!--补丁查看更多-->
 
 	
@@ -285,15 +280,18 @@ $(function(){
 	return ( Math.round( aa * Math.pow( 10, n + 2 ) ) / Math.pow( 10, n ) ).toFixed( n ) + '%';
 }
 	var shopnum = $("#num_dig");
+	var syrsnum = $("#syrs").val();
+	alert(syrsnum );
+	return false;
 	shopnum.keyup(function(){
-		if(shopnum.val()>{wc:$syrs}){
-			shopnum.val({wc:$syrs});
+		if(shopnum.val()>syrsnum){
+			shopnum.val(syrsnum);
 		}
 		var numshop=shopnum.val();
-		if(numshop=={wc:$item['zongrenshu']}){
+		if(numshop==<{$detail['zongrenshu']}>){
 			var baifenbi='100%';
 		}else{
-			var showbaifen=numshop/{wc:$item['zongrenshu']};
+			var showbaifen=numshop/<{$detail['zongrenshu']}>;
 			var baifenbi=baifenshua(showbaifen,2);
 		}
 		$("#chance").html("<span style='color:red'>获得机率"+baifenbi+"</span>");
@@ -303,21 +301,21 @@ $(function(){
 		var shopnum = $("#num_dig");
 			var resshopnump='';
 			var num = parseInt(shopnum.val());				
-			if(num+1 > {wc:$syrs}){				
-				shopnum.val({wc:$syrs});
-				resshopnump = {wc:$syrs};
+			if(num+1 > syrsnum){				
+				shopnum.val(syrsnum);
+				resshopnump = syrsnum;
 			}else{
 				resshopnump=parseInt(shopnum.val())+1;
 				shopnum.val(resshopnump);	
-				if(shopnum.val()>={wc:$syrs}){
+				if(shopnum.val()>=syrsnum){
 					resshopnump=shopinfo['shenyu'];
 					shopnum.val(resshopnump);
 				}
 			}
-			if(resshopnump=={wc:$item['zongrenshu']}){
+			if(resshopnump==<{$detail['zongrenshu']}>){
 				var baifenbi='100%';
 			}else{
-				var showbaifen=resshopnump/{wc:$item['zongrenshu']};
+				var showbaifen=resshopnump/<{$detail['zongrenshu']}>;
 				var baifenbi=baifenshua(showbaifen,2);
 			}
 			$("#chance").html("<span style='color:red'>获得机率"+baifenbi+"</span>");
@@ -333,10 +331,10 @@ $(function(){
 			shopnum.val(parseInt(shopnum.val())-1);
 		}
 		var shopnums=parseInt(shopnum.val());
-		if(shopnums=={wc:$item['zongrenshu']}){
+		if(shopnums==<{$detail['zongrenshu']}>){
 				var baifenbi='100%';
 			}else{
-				var showbaifen=shopnums/{wc:$item['zongrenshu']};
+				var showbaifen=shopnums/<{$detail['zongrenshu']}>;
 				var baifenbi=baifenshua(showbaifen,2);
 			}
 			$("#chance").html("<span style='color:red'>获得机率"+baifenbi+"</span>");

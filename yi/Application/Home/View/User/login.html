@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>登录-<{:cfg('web_name_two')}></title>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/Comm.css"/>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/login.css"/>
+<script type="text/javascript" src="__PUBLIC__/Home/js/JQuery.js"></script>
+<link href="__PUBLIC__/Home/js/style.css" rel="stylesheet" type="text/css" />
+<link href="__PUBLIC__/Home/js/demo.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="__PUBLIC__/Home/js/jquery.Validform.min.js"></script>
+</head>
+<body>
+ <script type="text/javascript">
+$(function(){		
+	var demo=$(".registerform").Validform({
+		tiptype:2,
+	});	
+})
+</script>
+<div class="login">
+
+	<div class="login_top">
+		<h1><a rel="nofollow" href="{G_WEB_PATH}"><img src="__PUBLIC__/home/images/logo.png"></a></h1>
+		<p><a rel="nofollow" href="{G_WEB_PATH}" class="back_home">返回首页</a><a href="{WEB_PATH}/help/1" target="_blank" class="help">帮助中心</a></p>
+	</div>
+	<div class="login_bg">
+		<div id="loadingPicBlock" class="login_banner"><img src="__PUBLIC__/Home/images/20120628180933540.jpg" width="542" height="360"></div>
+		<div class="login_box" id="LoginForm">
+		<form class="registerform" method="post" action="">
+			<h3><{:cfg('web_name_two')}> - 用户登录</h3>
+			<ul>				
+				<li class="click">
+					<span>账&nbsp;&nbsp;&nbsp;号：</span>
+					<input class="text_password" name="username" placeholder="请输入手机号/邮箱" type="text"  datatype="m | e" nullmsg="请填写帐号！" errormsg="手机号/邮箱！" />
+				</li>
+				<li class="ts"><div class="Validform_checktip"></div></li>
+				<li>
+					<span>密&nbsp;&nbsp;&nbsp;码：</span>					
+					<input class="text_password" name="password" placeholder="请输入登录密码" type="password"  datatype="*6-20" nullmsg="请设置密码！" errormsg="密码范围在6~20位之间！"/>
+					<span class="fog"><a href="<{:U('User/findpassword')}>">忘记密码？</a></span> 
+				</li>								
+				<li class="ts" id="pwd_ts"><div class="Validform_checktip"></div></li>
+				 <li>
+                    <span>验证码：</span>
+                    <input class="text_verify" name="verify" placeholder="验证码" type="text"  datatype="*" nullmsg="请输入验证码！" errormsg="请输入正确的验证码！"/>
+                    <span class="fog"><img id="checkcode" src="<{:U('User/verify')}>"/></span>
+                </li>
+                <li class="ts" id="pwd_ts"><div class="Validform_checktip">&nbsp;&nbsp;</div></li>
+			
+                <li class="end">
+                	<span><input name="submit" type="submit" value="登录" class="login_init" ></span>
+                    <span><a id="hylinkRegisterPage" style="padding:0px 0px;" tabindex="4" class="reg" href="{WEB_PATH}/register">立即注册</a></span>
+                </li>
+                    
+			</ul>
+ 			<div class="loginQQ">使用合作帐号登录:<span id="qq_login_btn"><a href="{WEB_PATH}/api/qqlogin/"><img src="__PUBLIC__/Home/images/qqlogin.png" /></a></span></div>  
+        
+			<input value="{G_HTTP_REFERER}" name="hidurl" type="hidden">
+		</form>
+		</div>
+	</div>
+</div>
+<!--login 结束-->
+<div class="footer">
+	<div class="footer_links">
+		<a href="{WEB_PATH}">首页</a>
+		<b></b>
+		{wc:fun:Getheader('foot')}
+  	</div>
+	<div class="copyright"><{:cfg('web_copyright')}></div>
+</div>
+</body>
+</html>

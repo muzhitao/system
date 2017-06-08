@@ -1,23 +1,24 @@
 <div class="Progress-bar">
-				<p title="已完成{wc:fun:percent($item['canyurenshu'],$item['zongrenshu'])}"><span style="width:{wc:fun:width($item['canyurenshu'],$item['zongrenshu'],450)}px; display:;"></span></p>
+				<p title="已完成<?php echo percent($detail['canyurenshu'],$detail['zongrenshu']); ?>"><span style="width:<?php echo width($detail['canyurenshu'],$detail['zongrenshu'],450); ?>px; display:;"></span></p>
 				<ul class="Pro-bar-li">
-					<li class="P-bar01"><em>{wc:$item['canyurenshu']}</em>已参与人次</li>
-					<li class="P-bar02"><em id="CodeQuantity">{wc:$item['zongrenshu']}</em>总需人次</li>
-					<li class="P-bar03"><em id="CodeLift">{wc:$syrs}</em>剩余人次</li>
+					<li class="P-bar01"><em><{$detail.canyurenshu}></em>已参与人次</li>
+					<li class="P-bar02"><em id="CodeQuantity"><{$detail.zongrenshu}></em>总需人次</li>
+					<li class="P-bar03"><em id="CodeLift"><?php echo $detail['zongrenshu']-$detail['canyurenshu']; ?></em>剩余人次</li>
 				</ul>
 			</div>
 		
-			{wc:if $item['shenyurenshu']=='0' && $item['xsjx_time']=='0' && empty($item['q_uid'])}               
+			<?php if ($detail['shenyurenshu'] == 0 && $detail['xsjx_time'] == 0 && empty($detail['q_uid'])){ ?>          
                 <div class="Immediate">
                   <span style="left:10px;right:0px;">这个商品未揭晓成功,请联系客服手动揭晓！</span> 
                 </div>             
-			{wc:if:end}
+			<?php } ?>
 			
 			 <!-- 限时揭晓 -->
-            {wc:if $item['xsjx_time']!='0'}
+      
+            <?php if ($detail['xsjx_time'] == '0'){ ?>
             <div id="divAutoRTime" class="Immediate">
 			            <span><a class="orange" target="_blank" href="#">限时揭晓的规则？</a></span>
-                        <i id="timeall" endtime="{wc:fun:date("m-d-Y H:i:s",$item['xsjx_time'])}" lxfday="no"></i>		                           
+                        <i id="timeall" endtime="<?php echo date('m-d-Y H:i:s',$detail['xsjx_time']); ?>" lxfday="no"></i>		                           
 			</div>
             <script type="text/javascript">			
 			function lxfEndtime(xsjx_time_shop,this_time){	
@@ -27,7 +28,7 @@
 				}
 				this.this_time = this.this_time + 1000;
 				lxfEndtime_setTimeout  = window.setTimeout("lxfEndtime()",1000);				
-				var endtime = {wc:$item['xsjx_time']}000;
+				var endtime = <{$detail['xsjx_time']}>000;
 			    var youtime = endtime - this.this_time;	   	   //还有多久(毫秒值)
 				
 				var seconds = youtime/1000;
@@ -82,24 +83,26 @@
 			  }			  
 			 $(function(){lxfEndtime($("#timeall"),{wc:fun:time()}000);});
 			</script>
-            {wc:if:end}			
+            <?php } ?>	
 			<!-- 限时揭晓end -->
 			
-			<p class="Pro_Detsingle" style="font-size:14px;">{wc:fun:_cfg('web_name_two')}价格：<b style="color:#999;">{wc:$item['yunjiage']}</b></p>
+			<p class="Pro_Detsingle" style="font-size:14px;"><{:cfg('web_name_two')}>价格：<b style="color:#999;"><{$detail.yunjiage}></b></p>
 			<div id="divNumber" class="Pro_number">
-				我要{wc:fun:_cfg('web_name_two')} 
+				我要<{:cfg('web_name_two')}>
 				<a href="javascript:;" class="num_del num_ban" id="shopsub">-</a>
 				<input style="border:1px solid #CFCFCF" type="text" value="1" maxlength="7" onKeyUp="value=value.replace(/\D/g,'')" class="num_dig" id="num_dig"/>
 				<a href="javascript:;" class="num_add" id="shopadd">+</a>人次 
 				<span id="chance" class="gray03">购买人次越多获得几率越大哦！</span>
+				<input type="hidden" name="" id="syrs" value="<?php echo $detail['zongrenshu']-$detail['canyurenshu']; ?>">
 			</div>
-			<div style="display:none;" id="hqid">{wc:$item['id']}</div>
+			<div style="display:none;" id="hqid"><{$detail.id}></div>
 			<div id="divBuy" class="Det_button">
-            	{wc:if $item['shenyurenshu'] == '0'}
+            	
+            	<?php if ($detail['shenyurenshu'] == 0){ ?>
                 <a href="javascript:;" class="Det_Shopbut_exit">已满员</a>
-                {wc:else}
-				<a href="javascript:;" class="Det_Shopbut">立即{wc:fun:_cfg('web_name_two')}</a>
-                {wc:if:end}
+                <?php }else{ ?>
+				<a href="javascript:;" class="Det_Shopbut">立即<{:cfg('web_name_two')}></a>
+               	<?php } ?>
 				<a href="javascript:;" class="Det_Cart"><i></i>加入购物车</a>							
 			</div>
             

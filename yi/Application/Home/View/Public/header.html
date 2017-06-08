@@ -8,7 +8,7 @@
     <meta http-equiv = "X-UA-Compatible" content = "IE = edge" />
     <link rel="stylesheet" type="text/css" href="__PUBLIC__/home/css/Comm.css"/>
     <link rel="stylesheet" type="text/css" href="__PUBLIC__/home/css/register.css"/>
-    <link rel="stylesheet" type="text/css" href="__PUBLIC__/home/css/css/Home.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/home/css/Home.css"/>
     <script type="text/javascript" src="__PUBLIC__/home//js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="__PUBLIC__/home/js/jquery.cookie.js"></script>
 </head>
@@ -22,18 +22,18 @@
                 <p class="collect"><a href="javascript:;" id="addSiteFavorite" style="cursor: default;text-decoration: none;">欢迎来到云购</a></p>
                 <p class="collect"><a href="{G_WEB_PATH}/?/mobile/mobile">手机版</a></p>
                 <ul class="login_info" style="display: block;">
-                   <if condition="$Think.session.user neq ''">
+                   <if condition="$Think.cookie.uid neq ''">
                     <li class="h_wel" id="logininfo">
                         <a href="{WEB_PATH}/member/home" class="gray01" >
                             <img src="{G_UPLOAD_PATH}/{wc:fun:get_user_img('3030')}" width="30" height="30"/>
-                            {wc:fun:get_user_name(get_user_arr(),'username')}
+                            <{$Think.cookie.username}>
                         </a>&nbsp;&nbsp;
                         <a href="{WEB_PATH}/member/user/cook_end" class="gray01">[退出]</a>
                     </li>
                     <else/>
                     <li id="logininfo" class="h_login">
-                        <a style="color:#3399FF" class="gray01" href="{:U('User/login')}" >请登录</a>
-                        <a class="gray01" href="{:U('User/register')}" >免费注册</a>
+                        <a style="color:#3399FF" class="gray01" href="<{:U('User/login')}>" >请登录</a>
+                        <a class="gray01" href="<{:U('User/register')}>" >免费注册</a>
                     </li>
                    </if>
                     <li class="h_1yyg">
@@ -98,11 +98,11 @@
                     <div class="m_catlog_hd" >
                         <a href="{WEB_PATH}/goods_list">奖品分类</a>
                     </div>
-                    <div class="m_catlog_wrap"  style="{wc:if isset($isindex) && $isindex=='Y'}display:block;{wc:else}display:none;{wc:if:end}">
+                    <div class="m_catlog_wrap"  style="<?php echo $index == 'Index'?'display:block;':'display:none;'; ?>">
                         <div class="m_catlog_bd">
                             <ul class="m_catlog_list">
                                <volist name="cat_list" id="vo">
-                                <li><a href="<{:U('Goods/good_list',array('cateid'=>$vo['cateid']))}>"><{$vo.name}></a></li>
+                                <li><a href="<{:U('Goods/goodslist',array('cateid'=>$vo['cateid']))}>"><{$vo.name}></a></li>
                                </volist>
                             </ul>
                         </div>
@@ -118,7 +118,7 @@
                         <span type="hidden"  class="w-miniCart-count" id="sCartTotal">0</span></a>
                     <b id="btnMyCartccc"></b>
                     <div class="mycart_list" id="sCartlist" style="z-index: 99999; display: none;">
-                        <div class="goods_loding" id="sCartLoading" style="display: none;"><img border="0" alt="" src="{G_TEMPLATES_STYLE}/images/goods_loading.gif">正在加载......</div>
+                        <div class="goods_loding" id="sCartLoading" style="display: none;"><img border="0" alt="" src="__PUBLIC__/home/images/goods_loading.gif">正在加载......</div>
                         <p id="p1">共计 <span id="sCartTotal2"> 2</span> 件商品 金额总计：<span id="sCartTotalM" class="rmbred">5.00</span></p>
                         <h3><input type="button" id="sGotoCart" value="去购物车并结算"></h3>
                     </div>
